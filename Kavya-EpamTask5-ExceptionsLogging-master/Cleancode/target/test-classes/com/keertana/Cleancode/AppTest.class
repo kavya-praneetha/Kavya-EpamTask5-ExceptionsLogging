@@ -1,0 +1,15 @@
+Êþº¾   1 C  com/mithra/Cleancode/AppTest  junit/framework/TestCase <init> ()V Code
+  	   LineNumberTable LocalVariableTable this Lcom/mithra/Cleancode/AppTest; testApp 
+Exceptions  java/io/IOException  com/mithra/Cleancode/Compound
+  	  com/mithra/Cleancode/Simple
+  	@—p     @333333@      @      
+  ! " # Compound_interest (DDDD)D
+ % ' & java/lang/Double ( ) valueOf (D)Ljava/lang/Double;@žKXçæÊ5
+  - . / assertEquals '(Ljava/lang/Object;Ljava/lang/Object;)V@èj     @       
+  5 6 7 Simple_interest (DDD)D@¯@      test Lcom/mithra/Cleancode/Compound; simple Lcom/mithra/Cleancode/Simple; Compound_result Ljava/lang/Double; 
+Simple_result 
+SourceFile AppTest.java !               /     *· ±    
+                 
+                ²     H» Y· L» Y· M    ¸  ¸ $N- *¸ $¸ , 0 2¸ 4¸ $: 8¸ $¸ ,±    
+            #  -  <  G     4    H  
+    @ : ;   8 < =  # % > ?  <  @ ?   A    B

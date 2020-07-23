@@ -1,0 +1,12 @@
+Êþº¾   1 *  %com/mithra/Constructionlogger/AppTest  junit/framework/TestCase <init> ()V Code
+  	   LineNumberTable LocalVariableTable this 'Lcom/mithra/Constructionlogger/AppTest; testApp  *com/mithra/Constructionlogger/Construction
+  	@|      
+     cost (ID)D
+    java/lang/Double   valueOf (D)Ljava/lang/Double;A(¸     
+  ! " # assertEquals '(Ljava/lang/Object;Ljava/lang/Object;)V test ,Lcom/mithra/Constructionlogger/Construction; result D 
+SourceFile AppTest.java !               /     *· ±    
+       
+          
+          i     » Y· L+ ¶ I(¸  ¸ ¸  ±    
+                        
+     $ %    & '   (    )

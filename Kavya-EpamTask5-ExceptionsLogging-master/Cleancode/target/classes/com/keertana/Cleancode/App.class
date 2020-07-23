@@ -1,0 +1,24 @@
+Êþº¾   1 S  com/mithra/Cleancode/App  java/lang/Object LOGGER !Lorg/apache/logging/log4j/Logger; <clinit> ()V Code
+  
+  #org/apache/logging/log4j/LogManager   	getLogger 4(Ljava/lang/Class;)Lorg/apache/logging/log4j/Logger;	     LineNumberTable LocalVariableTable <init>
+     this Lcom/mithra/Cleancode/App; main ([Ljava/lang/String;)V 
+Exceptions  java/io/IOException  com/mithra/Cleancode/Simple
+   " java/util/Scanner	 $ & % java/lang/System ' ( in Ljava/io/InputStream;
+ ! *  + (Ljava/io/InputStream;)V
+ ! - . / 
+nextDouble ()D 1 /Arithmetic Exception found 
+ Program Terminated 3 5 4 org/apache/logging/log4j/Logger 6 7 error (Ljava/lang/String;)V
+  9 : ; Simple_interest (DDD)D = com/mithra/Cleancode/Compound
+ < 
+ < @ A B Compound_interest (DDDD)D args [Ljava/lang/String; test Lcom/mithra/Cleancode/Simple; Ljava/util/Scanner; 
+noof_times D 
+principle_amt rate_of_interest time 
+Sfinal_amt test1 Lcom/mithra/Cleancode/Compound; 
+Cfinal_amt 
+SourceFile App.java !                	   )      	¸ 
+³ ±                      	   /     *· ±           	             	          	       ]» Y·  L» !Y² #· )M,¶ ,J,¶ ,9,¶ ,9—š ² 0¹ 2 ±,¶ ,9		¸ 89» <Y· >:
+	)¸ ?9±       6 
+            $  +  5  6  <  G  P  \     f 
+   ] C D    U E F   J ' G   E H I   ? J I  $ 9 K I  < ! L I 	 G  M I  P 
+ N O 
+ \  P I   Q    R
